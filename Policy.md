@@ -1,157 +1,73 @@
- Privacy Policy
-    We value the trust you place in us. VERSER acknowledges the importance of protecting your privacy and personal information.
+1. Introduction
+At GLC Acadmy, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our services. This policy is designed to comply with Google’s policies and best practices for data handling, and it is applicable to all users of the app.
 
-        About This Privacy Policy
-        This policy represents our commitment as a company to your right to privacy, giving you a clear explanation about how we collect your information, how we use it and your rights over that information when you use the services provided on our site(s) and our related mobile application(s)
+By using GLC Acadmy , you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms, please do not use the app.
 
-        References to ‘we’, ‘us’ and ‘our’ are to VERSER, registered as a Joint Stock Company registered in Egypt.
+2. Information We Collect
+We collect several types of information to provide and improve our service to you, including:
 
-        What Personal Information We Collect And How We Collect It
-        Information You Provide:
-        Account sign up: we collect personal information that you provide us when you or your employer register to VERSER, update your account information, submit information to verify your identity, and other information that you may provide but not required for sign up. This information may include; name, email, phone number, national ID, address and profile photo.
-        Passwords and login info: login information are only saved as per user’s request.
-        Payroll information: salaries and payroll information are stored in secured and encrypted data servers and is not readable by anyone.
-        Payment processing: we ask you to provide your payment card information for VERSER subscription fees payment. When you submit the card information, we store the name of the cardholder, the expiry date, and the last four digits of the payment card, knowing that we don’t store the actual payment card number. You may approve to store your payment card information in an encrypted format in the secured servers of our Payment Gateway Service provider for quick processing of your future payments.
-        Automatically Collected Information:
-        When you access VERSER we collect extra information automatically using cookies or similar technology. This may include mobile device identifier, mobile network information, IP address, operating system, data and time of access, browser type, and location.
-        Why We Use Your Personal Information
-        We use your personal information collected through our site(s) and app(s) for several purposes, including the following:
+2.1 Personal Information
+We collect personally identifiable information that you provide when creating an account, including but not limited to:
 
-        To operate our business: administer VERSER, manage accounts and provide the service, respond to your requests and inquiries, and communicate with you about the services you have subscribed to.
-        To better understand our users and improve the services we provide to them.
-        To back up or restore your data.
-        To provide you with other VERSER services upon your request.
-        To keep you posted on new updates, services, promotions, and other information that we think will be of interest to you.To provide customer support and improve communication with customers.
-        To provide customer support and improve communication with customers.
-        To generate anonymized aggregated data containing only de-identified, non-personal information that we may use to publish reports.
-        Security Of Your Personal Information
-        We have implemented organizational, technological and physical safeguards designed to protect your personal information against unauthorized processing and against accidental loss, damage or destruction. VERSER is dedicated to building, maintaining and upgrading the measures we take to protect your information.
+Username: We collect your username to create your account and identify you in the system.
+Email Address: We collect your email address for account verification, communication, and to send important information regarding your account.
+Password: We collect your password as part of the authentication process to secure your account.
+2.2 Other Data
+We may collect other types of data to improve the app’s performance and user experience, such as:
 
-        What Is A Cookie?
-        A cookie is a small file that can be placed on your device that allows us to recognize and remember you. A cookie will normally contain the name of the Internet domain from which the cookie has come, the 'lifetime' of the cookie, and a value, usually a randomly generated unique number. It is sent to your browser and stored on your computer’s hard drive or tablet or mobile device.
-        When you visit our sites, we may collect information from you automatically through cookies or similar technology.
-        If you wish to restrict or block cookies you can set your internet browser to do so. However, in few cases, some of VERSER features may not function as a result. Click on the following link for more information: www.aboutcookies.org.
-        Retention Period For Information
-        We keep your personal information for as long as is necessary for the purposes stated in this Privacy Policy. When we no longer have a legitimate need to process your information, we will delete it or make it anonymous by removing all details that identify you.
+Profile Picture: If you choose to upload a profile picture, we store and display it within the app.
+Photos/Images: When sharing pictures within the app, these photos may be collected and stored to facilitate app features like sharing and displaying content.
+Log Data: This includes your IP address, browser type, and device identifiers. This helps us improve the performance of the app and understand how users interact with it.
+Usage Data: We collect data about your interactions with the app, such as features you use, time spent, and pages visited. This data is anonymized and used to improve the service.
+2.3 Authentication Data
+We collect data related to your account's authentication to ensure secure access to the app. This includes:
 
-        Your Rights Over Your Personal Information
-        You have the following rights over your information:
+Username and Password: Used to authenticate your access to the app.
+Two-Factor Authentication (if applicable): We may collect additional authentication data to further secure your account.
+3. How We Use Your Information
+We use the information we collect for various purposes, including:
 
-        The right to access: you have the right to export your data that is saved on the cloud.
-        The right to rectification: you have the right to request that we correct any information you believe is inaccurate./li>
-        The right to erasure: you have the right to request that we erase your personal data under certain conditions.
-        The right to restrict processing: you have the right to object to our processing of your personal data, under certain conditions.
-        The right to data portability: you have the right to request from our company to transfer the data it has collected to another organization or directly to you, under certain conditions.
-        Changes To Our Privacy Policy
-        We keep out privacy policy under regular review and place any updates on this page. If the changes are significant, we may also choose to email all our registered users with the new details. This privacy policy was last updated on (Date).
+To Provide and Maintain the Service: This includes using your data to manage your account and provide you with access to the app’s features.
+Account Authentication: We use your username, password, and email for authentication to ensure secure access to the app.
+To Improve the Service: Your usage data helps us analyze how the app is being used, so we can make improvements to the user experience and performance.
+To Communicate with You: We use your email address to send you important updates, notifications, and security alerts related to your account.
+To Personalize the Experience: Information like your profile picture and username will be used within the app to personalize your experience and interactions with other users.
+4. Sharing Your Information
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information in the following situations:
 
-        Changes to this Privacy Policy to date
+With Service Providers: We may share information with third-party service providers who perform functions on our behalf, such as hosting services, cloud storage, and data analytics.
+For Legal Reasons: We may disclose your information if required by law or to protect the rights, property, or safety of [Your App Name], its users, or others.
+With Your Consent: We may share your information with third parties if you explicitly consent to such sharing.
+5. Data Security
+We take data security seriously and implement a range of technical and organizational measures to protect your personal information. These include:
 
-        Contact Us
-        If you have any questions about our privacy policy or you have a concern about how your personal data is used or you want to exercise one of your data protection rights, please don’t hesitate to contact us.
+Encryption: Your password and sensitive information are encrypted in transit and at rest using industry-standard encryption protocols.
+Access Controls: Access to your personal data is restricted to authorized personnel only and is protected by multi-factor authentication mechanisms.
+Regular Security Audits: We regularly audit our security systems to identify and address vulnerabilities.
+Despite these efforts, no system is completely secure. Therefore, while we strive to protect your personal data, we cannot guarantee its absolute security.
 
+6. Retention of Your Information
+We retain your personal information for as long as your account is active or as needed to provide you with the service. If you close your account, we will retain and use your information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
-        This Privacy Policy applies to the Android application “VERSER”.
+7. Your Rights
+Depending on your location and applicable laws, you may have the following rights regarding your personal information:
 
-        At VERSER, we are committed to protecting the privacy of our users. We recognize the importance of providing you with information about our practices regarding the collection, use and disclosure of the personal information and location data you provide to us through the Application.
+Access: You have the right to request access to the personal data we hold about you.
+Correction: You can request that we update or correct any inaccurate personal information.
+Deletion: You can request that we delete your account and any associated data.
+Withdrawal of Consent: If we process your data based on your consent, you have the right to withdraw that consent at any time.
+To exercise any of these rights, please contact us at info@glc.com.
 
-        Collection and Use of Personal Information
+8. Children's Privacy
+Our service is not intended for use by anyone under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will take steps to remove that information.
 
-        Information We Collect
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. When we make changes, we will notify you by updating the “Effective Date” at the top of this policy and, where appropriate, notify you via email or within the app.
 
-        We collect the following information when you use the app:
+We encourage you to review this policy periodically to stay informed about how we are protecting your information.
 
-        Location Information: We may collect your real-time geographic location from your device.
+10. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-        Email Information: We may collect your email information when you sign up for the app.
-
-        Name Information: We may collect your name when you sign up for the app.
-
-        How We Use Information
-
-        We use the information we collect to provide, improve, and personalize our services, to communicate with you, and to operate and maintain the app. We may also use the information to send you promotional materials, provide customer service, and to track your usage of the app.
-
-        We may also use your location information to track your movements. This information is used to better understand user behavior and to provide more tailored services.
-
-        Sharing of Information
-
-        We may share the information we collect with third parties for the purpose of providing our services. We may also share your information with our affiliates and partners for analytics, marketing, and other business purposes.
-
-        We may also share your information if we believe it is necessary to: (1) comply with applicable laws; (2) respond to claims or legal process; or (3) protect the rights, property, or safety of our customers, or the public.
-
-        We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
-
-        Security
-
-        We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
-
-        Changes to This Policy
-
-        We may change this policy from time to time. If we make changes, we will post them on this page and update the “Last Updated” date above. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account or through a notification on the app.
-
-
-        We may collect personal information from you when you use the Application. This personal information may include your name, e-mail address and other contact information. We may use your personal information to provide you with information regarding the Application, and to contact you regarding promotions, updates and other services.
-
-        Location Data
-
-        The Application uses location data to track your location. This data is used for the purpose of providing you with more detailed information about your location. We may also use your location data to send to our manager for more detailed tracking.
-
-        Sharing of Information
-
-        We may share your personal information and location data with our manager for more detailed tracking.
-
-        Security
-
-        We take reasonable measures to protect your personal information from unauthorized access or disclosure. However, no system is completely secure, and we cannot guarantee the security of your personal information.
-
-        Changes to This Policy
-
-        We reserve the right to modify this Privacy Policy at any time. If we make any changes to this Privacy Policy, we will post the updated Privacy Policy to the Application and update the “Last Updated” date at the top of this policy.
-
-        Contact Us
-
-        If you have any questions or concerns about our Privacy Policy, please contact us at araaktech@gmail.com.
-
-        This Privacy Policy describes how we collect, use, and share information when you use our Android application ("Application").
-
-        We understand that the privacy of your information is important to you and this privacy policy is designed to help you understand how we collect, use, and share information when you use the Application. If you have any questions about this Privacy Policy, please contact us at [INSERT CONTACT EMAIL].
-
-        Information Collected
-
-        When you use the Application, we collect certain information related to your device, your activity on the Application, and your use of the Application's features. This information includes:
-
-        • Location data: We collect location data (e.g. GPS coordinates) from your device when you use the Application. This information is used to send to the manager to track.
-
-        • Usage data: We collect information related to how you use the Application, such as feature usage and frequency.
-
-        • Device data: We collect information about the device you are using, such as your hardware model, operating system version, and unique device identifiers.
-
-        • Log data: We collect information about your interaction with the Application, such as the pages you visit and the time spent on each page.
-
-        Use of Information
-
-        We use the information collected from the Application to provide, maintain, and improve the Application, and to develop new products and services. We also use this information for analytics purposes, such as to identify usage trends and to measure the effectiveness of our communications.
-
-        We may also use the information collected from the Application for marketing purposes, such as to provide you with offers and promotions that may be of interest to you.
-
-        Sharing of Information
-
-        We may share information collected from the Application with our affiliates and other third parties for the purposes described in this Privacy Policy. For example, we may share information with third party service providers who assist us with the operation of the Application.
-
-        We may also share information collected from the Application in response to a legal request, such as a subpoena, court order, or government request. We may also share information collected from the Application when we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our customers, or others.
-
-        Security
-
-        We take reasonable measures to help protect information collected from the Application from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction.
-
-        Your Choices
-
-        You have the right to access and correct your personal information collected from the Application. You may also have the right to request that we delete your personal information and restrict our use of it. To exercise these rights, please contact us at [INSERT CONTACT EMAIL].
-
-        Changes to This Privacy Policy
-
-        We may update this Privacy Policy from time to time. We will notify you of any changes by posting the revised Privacy Policy on the Application. Your continued use of the Application after the revised Privacy Policy is posted will constitute your agreement to the revised Privacy Policy.
-
-        Contact Us
-
-        If you have any questions about this Privacy Policy, please contact us at araaktech@gmail.com.
+Email: info@glc.com
+Address: Cairo, Egypt
